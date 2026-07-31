@@ -1,10 +1,8 @@
 <p align="center">
 
-# 🖥️ AgustinOS 1.0
+# 🖥️ Architin777
 
-### _Windows Aero Inspired GitHub Profile_
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&size=22&duration=3500&color=2CA9FF&center=true&vCenter=true&width=650&lines=Systems+Degree+Student;Backend+Developer;Karting+Driver;Windows+Customization+Enthusiast" />
+<img src="https://michael-murder.neocities.org/main/graphics/blinkies/evanescence.gif" />
 
 </p>
 
