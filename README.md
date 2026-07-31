@@ -24,12 +24,8 @@ System Degree Student
 
 # <img width="260" src="assets/TechStackBlinkie.gif"/>
 
-<img src="assets/phpblinkie.gif"/>
-<img src="assets/htmlblinkie.gif"/>
-<img src="assets/dockerblinkie.gif"/>
-<img src="assets/javascriptblinkie.gif"/>
-<img src="assets/postgresqlblinkie.gif"/>
-<img src="assets/linuxblinkie.gif"/>
+<img src="assets/phpblinkie.gif"/><img src="assets/htmlblinkie.gif"/><img src="assets/dockerblinkie.gif"/>
+<img src="assets/javascriptblinkie.gif"/><img src="assets/postgresqlblinkie.gif"/><img src="assets/linuxblinkie.gif"/>
 <img src="assets/cssblinkie.gif"/>
 
 ---
