@@ -1,61 +1,36 @@
 <div align="center">
 
-# 🖥️ Architin777
+# <img width="360" src="/assets/architin777blinkie.gif"/>
 
-<img src="assets/banner.gif" width="100%" />
-
-<img src="https://michael-murder.neocities.org/main/graphics/blinkies/evanescence.gif"/>
+<img src="assets/bannergithub.gif" width="100%" />
 
 <img src="assets/divider.gif"/>
-
-*"Windows Aero • Alienware • Backend Developer • Karting"*
 
 </div>
 
 ---
 
-# 👋 About Me
-
-<img align="right" width="260" src="assets/character.gif"/>
+# <img width="260" src="assets/aboutmeblinkie.gif"/>
 
 ```txt
 > whoami
 
-Name      :: Agustin Bowen
-Country   :: Argentina
-Status    :: Online
-Focus     :: Backend Development
-Studying  :: Lic. en Sistemas
-OS        :: Windows 10
-Editor    :: VS Code
-Theme     :: Frutiger Aero
+Agustin Bowen
+System Degree Student
+24 years old
 ```
 
 <br clear="right"/>
 
----
+# <img width="260" src="assets/TechStackBlinkie.gif"/>
 
-# 📁 Current Projects
-
-<div align="center">
-
-| Project | Description |
-|---------|-------------|
-| 🏎 Premates | League of Legends analytics |
-| 🧹 SendaRC | Cleaning services management |
-| ⚙ Personal | Windows customization & UI |
-
-</div>
-
----
-
-# 💻 Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,django,js,html,css,bootstrap,git,github,docker,postgres,vscode"/>
-
-</div>
+<img src="assets/phpblinkie.gif"/>
+<img src="assets/htmlblinkie.gif"/>
+<img src="assets/dockerblinkie.gif"/>
+<img src="assets/javascriptblinkie.gif"/>
+<img src="assets/postgresqlblinkie.gif"/>
+<img src="assets/linuxblinkie.gif"/>
+<img src="assets/cssblinkie.gif"/>
 
 ---
 
