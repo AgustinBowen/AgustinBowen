@@ -6,7 +6,7 @@
 
 </div>
 <div align="center">
-<img src="assets/coolness09.gif"/> <img src="assets/alienware_button.gif"/>  <img src="assets/handcoded.gif"/> <img src="assets/getblues.gif"/> <img src="assets/xpulse.gif"/> <img src="assets/www2.gif"/> <img src="assets/htmlnow.gif"/> <img src="assets/windows.gif"/> <img src="assets/penguin.gif"/> <img src="assets/e21.gif"/>
+<img src="assets/coolness09.gif"/> <img src="assets/handcoded.gif"/> <img src="assets/xpulse.gif"/> <img src="assets/www2.gif"/> <img src="assets/htmlnow.gif"/> <img src="assets/windows.gif"/> <img src="assets/penguin.gif"/> <img src="assets/e21.gif"/>
 
 <img src="assets/bluefiredivider.gif"/>
 </div>
