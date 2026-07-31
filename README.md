@@ -7,10 +7,12 @@
 </div>
 <div align="center">
 <img src="assets/coolness09.gif"/> <img src="assets/handcoded.gif"/> <img src="assets/xpulse.gif"/> <img src="assets/www2.gif"/> <img src="assets/htmlnow.gif"/> <img src="assets/windows.gif"/> <img src="assets/penguin.gif"/> <img src="assets/e21.gif"/>
-
+</div>
+<br>
+<div align="left">
 <img src="assets/bluefiredivider.gif"/>
 </div>
-
+<br>
 <img src="assets/github-check.gif"/>
 
 # <img width="200" src="assets/aboutmeblinkie.gif"/>
@@ -32,7 +34,7 @@ Systems Degree Student
 
 <img width="250" src="assets/winampEvanescence.gif"/> <img width="280" src="assets/winampvisualizerBringMeToLife.gif"/>
 
-<img src="assets/letthemusicplay.gif"/> <img src="assets/d84.gif"/>
+<img src="assets/d84.gif"/> <img src="assets/letthemusicplay.gif"/> 
 
 <img src="assets/Blue-Stars.gif"/><img src="assets/Blue-Stars.gif"/>
 
@@ -44,4 +46,4 @@ Systems Degree Student
 
 </div>
 
-<img src="assets/skulline.gif"/><img src="assets/skulline.gif"/>
+<img src="assets/skulline.gif"/>
