@@ -25,8 +25,12 @@ Systems Degree Student
 <img width="250" src="assets/winampEvanescence.gif"/> <img width="280" src="assets/winampvisualizerBringMeToLife.gif"/>
 
 <div align="left">
+<img src="assets/17.gif"/> <img src="assets/bluecity.png"/> <img src="assets/38.png"/> <img src="assets/c1d3d61c05c314932622a8ccb629935f6de0fa3a.gifv"/> <img src="assets/69cd71791ffefe6c0864c90f6743cee2b7e30040.gifv"/> <img src="assets/f34f9bf3c41415ede822c9d7bb17f840cabbb40c.gifv"/> <br>
+<img src="assets/d54.png"/> <img src="assets/d37.gif"/> <img src="assets/d55.gif"/> <img src="assets/speedcore.gif"/> <img src="assets/haha.gif"/> <img src="assets/solitary.gif"/><br> 
+<img src="assets/b38.gif"/> <img src="assets/e6.gif"/> <img src="assets/e1.png"/> <img src="assets/old_web_stamp_by_vtge-dcgi6h4.png"/> <img src="assets/17.png"/> <img src="assets/sourcecode.gif"/>  
 
-<img src="assets/d37.gif"/> <img src="assets/code88x31_1.gif"/> <img src="assets/computerneversleeps.gif"/> 
+
+<img src="assets/code88x31_1.gif"/> <img src="assets/computerneversleeps.gif"/> <img src="assets/html.gif"/> <img src="assets/z12.gif"/> <img src="assets/y61.gif"/> 
 
 <img src="https://komarev.com/ghpvc/?username=AgustinBowen&style=flat-square"/>
 
