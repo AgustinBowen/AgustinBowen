@@ -30,13 +30,9 @@ Systems Degree Student
 
 # <img width="200" src="assets/nowplayingblinkie.gif"/>
 
-<img src="assets/Blue-Stars.gif"/><img src="assets/Blue-Stars.gif"/> 
-
 <img width="250" src="assets/winampEvanescence.gif"/> <img width="280" src="assets/winampvisualizerBringMeToLife.gif"/>
 
-<img src="assets/d84.gif"/> <img src="assets/letthemusicplay.gif"/> 
-
-<img src="assets/Blue-Stars.gif"/><img src="assets/Blue-Stars.gif"/>
+<img src="assets/dividerfrequency.gif"/><img src="assets/dividerfrequency.gif"/>
 
 <div align="left">
 
@@ -46,4 +42,4 @@ Systems Degree Student
 
 </div>
 
-<img src="assets/skulline.gif"/>
+<img src="assets/dividerrayo.gif"/>
