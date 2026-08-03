@@ -1,17 +1,18 @@
+<div align="left">
+<img width="360" src="/assets/architin777blinkie.gif"/>
+</div>
 <div align="center">
-
-# <img width="360" src="/assets/architin777blinkie.gif"/>
-
 <img src="assets/bannergithub.gif" width="100%" />
-
 </div>
 <div align="center">
 <img src="assets/coolness09.gif"/> <img src="assets/handcoded.gif"/> <img src="assets/xpulse.gif"/> <img src="assets/www2.gif"/> <img src="assets/htmlnow.gif"/> <img src="assets/windows.gif"/> <img src="assets/penguin.gif"/> <img src="assets/e21.gif"/>
 </div>
 <br>
-<div align="left">
-<img src="assets/bluefiredivider.gif"/>
 </div>
+<div align="center">
+<img src="assets/dividerrayo.gif"/>
+</div>
+
 <br>
 <img src="assets/github-check.gif"/>
 
@@ -32,14 +33,13 @@ Systems Degree Student
 
 <img width="250" src="assets/winampEvanescence.gif"/> <img width="280" src="assets/winampvisualizerBringMeToLife.gif"/>
 
-<img src="assets/dividerfrequency.gif"/><img src="assets/dividerfrequency.gif"/>
-
-<div align="left">
+<div align="center">
 
 <img src="assets/d37.gif"/> <img src="assets/code88x31_1.gif"/> <img src="assets/computerneversleeps.gif"/> 
 
 <img src="https://komarev.com/ghpvc/?username=AgustinBowen&style=flat-square"/>
 
 </div>
-
+<div align="center">
 <img src="assets/dividerrayo.gif"/>
+</div>
