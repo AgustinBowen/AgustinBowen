@@ -22,7 +22,7 @@ Systems Degree Student
 
 # <img width="200" src="assets/nowplayingblinkie.gif"/>
 
-<img width="250" src="assets/winampEvanescence.gif"/> <img width="280" src="assets/winampvisualizerBringMeToLife.gif"/>
+<img width="250" src="assets/winampEvanescence.gif"/>
 
 <div align="left">
 <img src="assets/phono14.gif"/> <img src="assets/selfesteem.gif"/><br>
